@@ -1,0 +1,14 @@
+for x in 1 : 4 : 1
+{ out(a)}
+int sum = 0 
+for a in 1 : 4 { sum = sum +1 }
+
+out (sum)
+int b 
+for a in 1 : 5
+{b = a }
+
+out(b)
+
+out ( " ")
+

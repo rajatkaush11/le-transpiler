@@ -1,0 +1,7 @@
+int a = root (121)
+out(a)
+
+int b = cos (90)
+int c = sin(90)
+out(b)
+out(c)

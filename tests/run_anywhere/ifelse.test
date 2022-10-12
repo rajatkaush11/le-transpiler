@@ -1,0 +1,10 @@
+int a = 3
+bool b = false
+
+if a ==3 and not b :
+{
+    out( " inside if ")
+}
+if a > 3 : {out("should not be printed")}
+elif a==3 : {out("shoould be printed")}
+else :{ out ("should not be printed")

@@ -1,0 +1,7 @@
+int arr
+for i in 0:16 {
+    arr[i]= 0
+}
+if arr[2] == 0 :{
+    out("ok")
+}

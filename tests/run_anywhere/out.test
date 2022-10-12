@@ -1,0 +1,12 @@
+out("START")
+
+int a = 11 
+out(a)
+
+if 2>1 : { a = 2}
+
+out (a)
+
+int c = 2 
+int d = 2 
+out(c+d)

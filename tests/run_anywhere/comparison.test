@@ -1,0 +1,14 @@
+bool a = 1>6 
+out(a)
+bool b = 9>5
+out(b)
+bool c = 'a' < 'b'
+out(c)
+bool f = 1==6
+out(f)
+bool q = 3>=4
+out(q)
+bool m = 5 != 6 
+out(m)
+bool g = 3 <= 6
+out(g) 

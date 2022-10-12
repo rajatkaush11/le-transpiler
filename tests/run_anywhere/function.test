@@ -1,0 +1,19 @@
+
+func one : void :
+{ out ("f1")}
+one()
+func two : void : int a , int b
+{out("f2")}
+two(1,2)
+
+func add : int : int c , int d{
+ int f = c + d
+ return f
+}
+int a = add(2,3)
+print(a)
+
+func less_than : bool : int c, int d {
+    bool f
+    if c < d  : {f= true}
+}

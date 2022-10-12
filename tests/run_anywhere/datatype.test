@@ -1,0 +1,11 @@
+int a 
+bool b
+if a == 0 : {
+    out("initialized by default to 0 ")
+}
+if not b : {
+    out ( " initialized by default to fault ")
+
+}
+char ch = ' a '
+out(ch)

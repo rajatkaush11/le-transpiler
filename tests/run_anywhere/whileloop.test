@@ -1,0 +1,34 @@
+int a = 1
+while a < 10 :
+{out(a)
+a = a + 1 }
+
+while true : 
+{ 
+    if a ==1 :
+    {
+        break
+    }
+    out(a)
+    a = a-1
+}
+out("now a is ")
+out(a)
+
+while true : 
+{
+    if a == 10 :
+    {
+        a = a +1
+        out(" ")
+        out("calling continue")
+        continue 
+    }
+    elif a == 20 :
+    {
+        out("calling break")
+        break
+    }
+}
+out("now a is ")
+out(a)
